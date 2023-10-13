@@ -1,0 +1,41 @@
+.profile {
+  padding: 20px;
+  display: block;
+  text-align: center;
+  background-color: rgb(3, 117, 209);
+}
+.avatar {
+  border-radius: 50%;
+  border: solid 1px whitesmoke;
+}
+
+.name {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.tag {
+  display: flex;
+  justify-content: center;
+}
+
+.location {
+  display: flex;
+  justify-content: center;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.list {
+  display: grid;
+  border: solid 1px black;
+  gap: 10px;
+  padding: 10px;
+  background: rgba(242, 200, 15, 0.972);
+}
