@@ -1,0 +1,17 @@
+.statistics {
+  border: 1px solid #ca4242;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.statList {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
